@@ -41,6 +41,7 @@ dist <- item %>%
 dist <- dist[2]
 dist
 
+# 
 
 
 
